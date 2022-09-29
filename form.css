@@ -1,0 +1,40 @@
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 25pt;         
+    font-style: normal; 
+    font-weight: bold; 
+    color:rgb(252, 252, 252);
+    text-align: center; 
+    text-decoration: underline
+  }
+  
+  table{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color:white; 
+    font-size: 16pt; 
+    font-style: normal;
+    font-weight: bold;
+    text-align: center; 
+    background-color: rgb(255, 153, 0); 
+    border-collapse: collapse; 
+    border: 25px solid rgb(0, 255, 85);
+    text-shadow: 1px;
+  }
+  table.inner{
+    border: 6px;
+    background-color: black;
+    border-color: aqua;
+    color: black;
+  }
+  
+    form{
+        border-radius: 10px;
+        color: aquamarine;
+        background-color: black;
+    }
+
+body {
+    background-color: rgb(248, 42, 42);
+    
+}
+  
